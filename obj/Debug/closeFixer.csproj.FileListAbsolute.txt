@@ -1,0 +1,7 @@
+C:\Users\FRANK\Documents\SharpDevelop Projects\closeFixer\closeFixer\obj\Debug\closeFixer.csprojResolveAssemblyReference.cache
+C:\Users\FRANK\Documents\SharpDevelop Projects\closeFixer\closeFixer\obj\Debug\closeFixer.MainForm.resources
+C:\Users\FRANK\Documents\SharpDevelop Projects\closeFixer\closeFixer\obj\Debug\closeFixer.csproj.GenerateResource.Cache
+C:\Users\FRANK\Documents\SharpDevelop Projects\closeFixer\closeFixer\bin\Debug\closeFixer.exe
+C:\Users\FRANK\Documents\SharpDevelop Projects\closeFixer\closeFixer\bin\Debug\closeFixer.pdb
+C:\Users\FRANK\Documents\SharpDevelop Projects\closeFixer\closeFixer\obj\Debug\closeFixer.exe
+C:\Users\FRANK\Documents\SharpDevelop Projects\closeFixer\closeFixer\obj\Debug\closeFixer.pdb
